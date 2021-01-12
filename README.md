@@ -9,22 +9,28 @@ Below are the lessons and tutorial videos I use for my course. The videos refer 
 * [Lesson 1 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/python_notebook_tutorial.ipynb)
 * [Lesson 1 Tutorial Video](https://youtu.be/UKcNBFiIGaQ)
 
-## Lesson 2: Solving a System of Equations with SymPy
+## Lesson 2: Linear Algebra for Machine learning with Python
 * [Lesson 2 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/sympy_example_partially_completed.ipynb)
 * [Lesson 2 Tutorial Video](https://youtu.be/7VuA0-NBXcc)
 
-## Lesson 3: Solving a System of Equations with NumPy
+## Lesson 3: Computing the Eigenvalues and Eigenvectors
+
+## Lesson 4: Pseudo Inverse, Least Square and Regression with SVD
 * [Lesson 3 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/numpy_example_partially_completed.ipynb)
 * [Lesson 3 Tutorial Video](https://youtu.be/EQ5VLo8M434)
 
-## Lesson 4: Implementing a Complete 1D FEA Solver
+## Lesson 5: Implementing a feedforward neural network
 * [Lesson 4 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/extension_due_to_weight_partially_completed.ipynb)
 * [Lesson 4 Tutorial Video](https://youtu.be/PEU-88ekxiA)
 
-## Lesson 5: Modal Analysis
+## Lesson 6: Implementing Deep Autoencoder with Kares
 * [Lesson 5 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/modal_analysis.ipynb)
 * [Lesson 5 Tutorial Video](https://youtu.be/N3MncGTTdCU)
 
-## Lesson 6: Modal Superposition Dynamic Simulation
+## Lesson 7: Dynamic Mode Decomposition
 * [Lesson 6 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/HW6_empty.ipynb)
 * [Lesson 6 Tutorial Video](https://youtu.be/MYc-Dh_wpSI)
+
+## Lesson 8: Sparse Identification of Nonlinear Dynamics (SINDy)
+
+## Lesson 9: Koopman Operator
