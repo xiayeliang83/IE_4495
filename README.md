@@ -19,7 +19,7 @@ Below are the lessons and tutorial videos I use for my course. The videos refer 
 * [Lesson 3 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/numpy_example_partially_completed.ipynb)
 * [Lesson 3 Tutorial Video](https://youtu.be/EQ5VLo8M434)
 
-## Lesson 5: Implementing a feedforward neural network
+## Lesson 5: Implementing a Feedforward Neural Network
 * [Lesson 4 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/extension_due_to_weight_partially_completed.ipynb)
 * [Lesson 4 Tutorial Video](https://youtu.be/PEU-88ekxiA)
 
