@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/)
 
-# ME5335_notebooks
-This repository contains a collection of Jupyter notebooks that I've developed as tutorials and examples for the ME 5335 Introduction to Finite Element Analysis course at the University of Minnesota Duluth. 
+# IE 4495
+This repository contains a collection of Jupyter notebooks that I've developed as tutorials and examples for the IE4495 Machine Learning for System Dynamics and Control course at the University of Minnesota Duluth. 
 
 Below are the lessons and tutorial videos I use for my course. The videos refer to course specific content but the notebooks could be a good starting point for someone developing a similar curriculum. All of the notebooks open in Google's colab Python notebook environment. This allows students to edit and run the notebooks without needing to install anything.
 
