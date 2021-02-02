@@ -10,7 +10,7 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 
 
 ## Lesson 2: Linear Algebra for Machine learning with Python
-* [Lesson 2 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/sympy_example_partially_completed.ipynb)
+* [Lesson 2 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//python_notebook_tutorial.ipynb)
 
 
 ## Lesson 3: Computing the Eigenvalues and Eigenvectors
