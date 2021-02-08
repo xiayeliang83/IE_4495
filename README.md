@@ -13,11 +13,11 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 * [Lesson 2 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//python_linear_algebra.ipynb)
 
 
-## Lesson 3: Computing the Eigenvalues and Eigenvectors
+## Lesson 3: SVD - Image compression 
+* [Lesson 3 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/ CH01_SEC02.ipynb)
 
-## Lesson 4: Pseudo Inverse, Least Square and Regression with SVD
-* [Lesson 3 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/numpy_example_partially_completed.ipynb)
 
+## Lesson 4: SVD - Pseudo Inverse, Least Square and Regression
 
 ## Lesson 5: Implementing a Feedforward Neural Network
 * [Lesson 4 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/extension_due_to_weight_partially_completed.ipynb)
