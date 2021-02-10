@@ -18,6 +18,11 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 
 
 ## Lesson 4: SVD - Pseudo Inverse, Least Square and Regression
+* [Lesson 4 Notebook_1D_linear_regression](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH01_SEC04_2_Cement.CH01_SEC04_1_Linear.ipynb)
+* [Lesson 4 Notebook_Cement_heating](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH01_SEC04_2_Cement.ipynb)
+* [Lesson 4 Notebook_PCA_naive_example](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//PCA_naive_example.ipynb)
+* [Lesson 4 Notebook_PCA_Gaussian_example](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH01_SEC05_1_PCAGaussian.ipynb)
+
 
 ## Lesson 5: Implementing a Feedforward Neural Network
 * [Lesson 4 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/extension_due_to_weight_partially_completed.ipynb)
