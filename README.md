@@ -25,7 +25,7 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 
 
 ## Lesson 5: Implementing a Feedforward Neural Network
-* [Lesson 4 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/extension_due_to_weight_partially_completed.ipynb)
+* [Lesson 5 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/extension_due_to_weight_partially_completed.ipynb)
 
 
 ## Lesson 6: Implementing Deep Autoencoder with Kares
