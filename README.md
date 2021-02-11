@@ -22,7 +22,7 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 * [Lesson 4 Notebook_Multi-linear_regression_Cement_heating](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH01_SEC04_2_Cement.ipynb)
 * [Lesson 4 Notebook_PCA_naive_example](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//PCA_naive_example.ipynb)
 * [Lesson 4 Notebook_PCA_Gaussian_example](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH01_SEC05_1_PCAGaussian.ipynb)
-* [Lesson 4 Notebook_Eigenfaces]
+* [Lesson 4 Notebook_Eigenfaces (to be updated)]
 
 ## Lesson 5: Implementing a Feedforward Neural Network
 * [to be published]
