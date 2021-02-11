@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/)
 
 # IE 4495
-This repository contains a collection of Jupyter notebooks that I've developed as tutorials and examples for the IE4495 Machine Learning for System Dynamics and Control course at the University of Minnesota Duluth. Some of the python notebooks are recreated based on the codes from Data_driven science and engineering Machine learning, Dynamical systems, and control. 
+This repository contains a collection of Jupyter notebooks that I've developed as tutorials and examples for the IE4495 Machine Learning for System Dynamics and Control course at the University of Minnesota Duluth. Some of the python notebooks are recreated based on the codes from Data-driven science and engineering Machine learning, Dynamical systems, and control. 
 http://www.databookuw.com
 
 All of the notebooks open in Google's colab Python notebook environment. This allows students to edit and run the notebooks without needing to install anything.
