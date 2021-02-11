@@ -25,21 +25,20 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 
 
 ## Lesson 5: Implementing a Feedforward Neural Network
-* [Lesson 5 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/extension_due_to_weight_partially_completed.ipynb)
-
+* [to be published]
 
 ## Lesson 6: Implementing Deep Autoencoder with Kares
-* [Lesson 6 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/modal_analysis.ipynb)
+* [to be published]
 
 ## Lesson 8: Clustering algorithms K means
+* [to be published]
 
 ## Lesson 9: Mixture Model, Maximum likelthood Estimation and Clustering with Expectation Maximization
+* [to be published]
 
+## Lesson 10: Dynamic Mode Decomposition
+* [to be published]
 
-## Lesson 7: Dynamic Mode Decomposition
-* [Lesson 7 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/HW6_empty.ipynb)
-
-
-## Lesson 8: Sparse Identification of Nonlinear Dynamics (SINDy)
-
-## Lesson 9: Koopman Operator
+## Lesson 11: Sparse Identification of Nonlinear Dynamics (SINDy)
+* [to be published]
+## Lesson 12: Koopman Operator
