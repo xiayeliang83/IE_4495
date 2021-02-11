@@ -29,11 +29,15 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 
 
 ## Lesson 6: Implementing Deep Autoencoder with Kares
-* [Lesson 5 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/modal_analysis.ipynb)
+* [Lesson 6 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/modal_analysis.ipynb)
+
+## Lesson 8: Clustering algorithms K means
+
+## Lesson 9: Mixture Model, Maximum likelthood Estimation and Clustering with Expectation Maximization
 
 
 ## Lesson 7: Dynamic Mode Decomposition
-* [Lesson 6 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/HW6_empty.ipynb)
+* [Lesson 7 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/HW6_empty.ipynb)
 
 
 ## Lesson 8: Sparse Identification of Nonlinear Dynamics (SINDy)
