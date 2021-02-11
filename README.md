@@ -6,15 +6,15 @@ This repository contains a collection of Jupyter notebooks that I've developed a
 All of the notebooks open in Google's colab Python notebook environment. This allows students to edit and run the notebooks without needing to install anything.
 
 ## Lesson 1: Introduction to Python Notebooks
-* [Lesson 1 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/python_notebook_tutorial.ipynb)
+* [Lesson 1 Notebook_introduction](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master/python_notebook_tutorial.ipynb)
 
 
 ## Lesson 2: Linear Algebra for Machine learning with Python
-* [Lesson 2 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//python_linear_algebra.ipynb)
+* [Lesson 2 Notebook_linear_algebra](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//python_linear_algebra.ipynb)
 
 
 ## Lesson 3: SVD - Image compression 
-* [Lesson 3 Notebook](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH01_SEC02.ipynb)
+* [Lesson 3 Notebook_dog_compression](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH01_SEC02.ipynb)
 
 
 ## Lesson 4: SVD - Pseudo Inverse, Least Square and Regression
