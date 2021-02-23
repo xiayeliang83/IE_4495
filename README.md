@@ -25,10 +25,14 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 * [Lesson 4 Notebook_PCA_Gaussian_example](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH01_SEC05_1_PCAGaussian.ipynb)
 * [Lesson 4 Notebook_Eigenfaces](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH01_SEC06.ipynb)
 
-## Lesson 5: Implementing a Feedforward Neural Network
+## Lesson 5: regression, optimization and model selection
+[Lesson 5 Notebook_understand_derivative_and_gradient](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//Derivative_gradient.ipynb)
+
+
+## Lesson 6: Implementing a Feedforward Neural Network
 * [to be published]
 
-## Lesson 6: Implementing Deep Autoencoder with Kares
+## Lesson 7: Implementing Deep Autoencoder with Kares
 * [to be published]
 
 ## Lesson 8: Clustering algorithms K means
