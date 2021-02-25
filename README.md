@@ -27,7 +27,7 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 
 ## Lesson 5: regression, optimization and model selection
 * [Lesson 5 Notebook_understand_derivative_and_gradient](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//Derivative_gradient.ipynb)
-* [Lesson 5 Notebook_CH04_L1_L2_norm_OverUnderDetermined](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH04_L1_L2_norm_OverUnderDetermined.ipynb)
+* [Lesson 5 Notebook_CH04_L1_L2_norm_OverUnderDetermined](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH04_SEC03_1_OverUnderDetermined.ipynb)
 
 
 ## Lesson 6: Implementing a Feedforward Neural Network
