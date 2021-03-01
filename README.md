@@ -24,6 +24,7 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 * [Lesson 4 Notebook_PCA_naive_example](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//PCA_naive_example.ipynb)
 * [Lesson 4 Notebook_PCA_Gaussian_example](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH01_SEC05_1_PCAGaussian.ipynb)
 * [Lesson 4 Notebook_Eigenfaces](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH01_SEC06.ipynb)
+* [Lesson 4 Notebook_Eigenfaces](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//IE4495_HW_3_solution.ipynb)
 
 ## Lesson 5: regression, optimization and model selection
 * [Lesson 5 Notebook_understand_derivative_and_gradient](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//Derivative_gradient.ipynb)
