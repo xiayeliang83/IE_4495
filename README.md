@@ -36,10 +36,10 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 * [Lesson 6 Notebook_neural_networks_optimization](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//NeuralNets_2.ipynb)
 
 ## Lesson 7: Implementing Deep Autoencoder with Kares
-* [Lesson 7 Notebook_NeuralNet Autoencoder with Kares](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//neuralNet_MNIST.ipynb)
+* [Lesson 7 Notebook_NeuralNet_Autoencoder_with_Kares](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//neuralNet_MNIST.ipynb)
 
 ## Lesson 8: Clustering algorithms K means
-* [to be published]
+* [Lesson 8 Notebook_K_means_clustering](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH05_SEC03_1_Kmeans.ipynb)
 
 ## Lesson 9: Mixture Model, Maximum likelthood Estimation and Clustering with Expectation Maximization
 * [to be published]
