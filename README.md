@@ -42,7 +42,7 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 * [Lesson 8 Notebook_K_means_clustering](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH05_SEC03_1_Kmeans.ipynb)
 
 ## Lesson 9: Mixture Model, Maximum likelthood Estimation and Clustering with Expectation Maximization
-* [to be published]
+* [Lesson 9 Notebook_GMM](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH05_SEC05_1_GaussianMixtureModels.ipynb)
 
 ## Lesson 10: Dynamic Mode Decomposition
 * [to be published]
