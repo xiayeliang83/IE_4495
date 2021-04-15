@@ -45,7 +45,7 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 * [Lesson 9 Notebook_GMM](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH05_SEC05_1_GaussianMixtureModels.ipynb)
 
 ## Lesson 10: Dynamic Mode Decomposition
-* [to be published]
+* [Lesson 9 Notebook_DMD](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH07_SEC02_DMD_Cylinder.ipynb)
 
 ## Lesson 11: Sparse Identification of Nonlinear Dynamics (SINDy)
 * [to be published]
