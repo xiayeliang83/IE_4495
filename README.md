@@ -50,4 +50,4 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 ## Lesson 11: Sparse Identification of Nonlinear Dynamics (SINDy)
 * [Lesson 11 Notebook_SINDy](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH07_SEC03_SINDY_Lorenz.ipynb)
 ## Lesson 12: Koopman Operator
-* [Lesson 12_Koopman_Operator](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH07_SEC04_Koopman.ipynb)
+* [Lesson 12 Koopman_Operator](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH07_SEC04_Koopman.ipynb)
