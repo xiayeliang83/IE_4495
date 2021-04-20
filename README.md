@@ -48,5 +48,5 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 * [Lesson 9 Notebook_DMD](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH07_SEC02_DMD_Cylinder.ipynb)
 
 ## Lesson 11: Sparse Identification of Nonlinear Dynamics (SINDy)
-* [to be published]
+* [Lesson 9 Notebook_DMD](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH07_SEC03_SINDY_Lorenz.ipynb)
 ## Lesson 12: Koopman Operator
