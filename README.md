@@ -53,5 +53,5 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 ## Lesson 12: Koopman Operator
 * [Lesson 12 Koopman_Operator](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH07_SEC04_Koopman.ipynb)
 
-## Lesson 12: Part of Finals
-* [Lesson 12 Project](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//Dogs_cats_preprocessing_and_benchmark.ipynb)
+## Lesson 13: Part of Finals
+* [Lesson 13 Project](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//Dogs_cats_preprocessing_and_benchmark.ipynb)
