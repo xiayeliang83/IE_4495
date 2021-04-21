@@ -31,7 +31,7 @@ All of the notebooks open in Google's colab Python notebook environment. This al
 * [Lesson 5 Notebook_CH04_L1_L2_norm_Lasso_ridge_OverUnderDetermined](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//CH04_SEC03_1_OverUnderDetermined.ipynb)
 
 
-## Lesson 6: Implementing a Feedforward Neural Network
+## Lesson 6: Implementing a Feedforward Neural Network from Scratch
 * [Lesson 6 Notebook_create_neural_networks](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//NeuralNets_part_1.ipynb)
 * [Lesson 6 Notebook_neural_networks_optimization](https://colab.research.google.com/github/yongzhiqu/IE_4495/blob/master//NeuralNets_2.ipynb)
 
